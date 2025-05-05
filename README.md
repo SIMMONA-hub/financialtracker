@@ -1,4 +1,6 @@
 Financial Tracker - Трекер Личных Финансов ╰(*°▽°*)╯
+Deploy: https://financialtracker-git-master-simmonas-projects.vercel.app 😊
+My Work: https://youtu.be/i87yALOH-7Q?si=FY3hCbdO51PlMkZ7 😎
 
 
 📝 Описание проекта
@@ -208,4 +210,4 @@ Recharts идеально подходит для визуализации да�
 
 Экспорт данных в различные форматы.
 
-Deploy: https://financialtracker-git-master-simmonas-projects.vercel.app 😊
+ 
